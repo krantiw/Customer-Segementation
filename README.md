@@ -33,13 +33,13 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 
 ### RoadMap
 - 1.Above libraries are loaded and read.
-- 2.A distribution plot of each of the variables are created.
+- 2.A distribution plot of each of the variables is created.
 - 3.A violin distribution w.r.t the gender is created.
-- 4.All the three variables are grouped to find the highest customers in each variable.
-- 5.Analysize the realtionship between Annual Income and Spending Score wrt Age using scatter plot.
-- 6.Apply Kmeans clustering to Age And Spending Score variables and visualise using scatter plot.
-- 7.Apply Kmeans clustering to Annual Income And Spending Score variables and visualise using scatter plot.
-- 8.Apply Kmeans clustering to all the three variables and visualise using 3D plot.
+- 4.All three variables are grouped to find the highest customers in each variable.
+- 5.Analyze the relationship between Annual Income and Spending Score wrt Age using scatter plot.
+- 6.Apply Kmeans clustering to Age And Spending Score variables and visualize using scatter plot.
+- 7.Apply Kmeans clustering to Annual Income And Spending Score variables and visualize using scatter plot.
+- 8.Apply Kmeans clustering to all the three variables and visualize using a 3D plot.
 
 ### Conclusion:
 The dataset has been clustered into 5 distinct non overlapping clusters.
