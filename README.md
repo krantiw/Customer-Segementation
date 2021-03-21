@@ -1,6 +1,7 @@
 # Customer-Segementation
 Using K-means Clustering
 ### Medium.com Link for the story-
+https://krantiwadmare10.medium.com/customer-segmentation-using-machine-learning-algorithm-ba027e0365a3
 
 ### Introduction
 - K-means clustering is a type of unsupervised learning, which is used when you have unlabeled data (i.e., data without defined categories or groups).
@@ -30,6 +31,9 @@ This project requires Python 3.x and the following Python libraries installed:
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
+### BLog Story-
+https://krantiwadmare10.medium.com/customer-segmentation-using-machine-learning-algorithm-ba027e0365a3
 
 ### RoadMap
 - 1.Above libraries are loaded and read.
