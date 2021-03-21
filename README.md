@@ -13,9 +13,9 @@ The analyses is done on the dataset available on the Kaggle website
 https://www.kaggle.com/imkushwaha/customersegmentationdataset
 
 The data-set has 3 main variables:
-1.Age : Age of the customers in the mall, 
-2.Annual Income(k$) : Annual income in 1000$,
-3.Spending Score (1-100) : A score given to each customer depending on their spending.
+-1.Age : Age of the customers in the mall, 
+-2.Annual Income(k$) : Annual income in 1000$,
+-3.Spending Score (1-100) : A score given to each customer depending on their spending.
 
 ### Installation:
 This project requires Python 3.x and the following Python libraries installed:
